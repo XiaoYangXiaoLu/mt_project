@@ -1,0 +1,181 @@
+{
+    "code": 0,
+    "data": {
+        "big_classify": [
+            {
+                "name": "美食",
+                "icon": "icon-apple-and-pear"
+            },
+            {
+                "name": "甜点饮品",
+                "icon": "icon-tianpin"
+            },
+            {
+                "name": "超市便利",
+                "icon": "icon-chaoshi"
+            },
+            {
+                "name": "生鲜果蔬",
+                "icon": "icon-shuiguo"
+            },
+            {
+                "name": "滴团买药",
+                "icon": "icon-yaopin"
+            }
+        ],
+        "small_classify": [
+            {
+                "name": "午餐",
+                "icon": "icon-wucan"
+            },
+            {
+                "name": "买酒",
+                "icon": "icon-jiu"
+            },
+            {
+                "name": "新鲜水果",
+                "icon": "icon--"
+            },
+            {
+                "name": "汉堡披萨",
+                "icon": "icon-hanbao"
+            },
+            {
+                "name": "休闲饮品",
+                "icon": "icon-yinpin"
+            },
+            {
+                "name": "夜宵",
+                "icon": "icon-xiaolongxia"
+            },
+            {
+                "name": "吐司",
+                "icon": "icon-tusi"
+            },
+            {
+                "name": "跑腿",
+                "icon": "icon-tongchengwaimai"
+            },
+            {
+                "name": "美人佳丽",
+                "icon": "icon-kouhong"
+            },
+            {
+                "name": "全部分类",
+                "icon": "icon-fenlei"
+            }
+        ],
+        "centent_nav_list": [
+            {
+                "tab": "天天神券",
+                "data": [
+                    {
+                        "pic": "https://img1.baidu.com/it/u=1599947592,1695977044&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=440",
+                        "title": "鱼拿酸菜鱼",
+                        "sales": "88",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    },
+                    {
+                        "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.cfcy168.com%2FUploadFiles%2F2020%2F2%2F15904074889874037.jpg&refer=http%3A%2F%2Fwww.cfcy168.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1645421933&t=66b58fbba9dce6f6b397e38820de24dc",
+                        "title": "隆江猪脚饭",
+                        "sales": "58",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    },
+                    {
+                        "pic": "https://img0.baidu.com/it/u=1616119702,1780005772&fm=253&fmt=auto&app=138&f=JPEG?w=667&h=500",
+                        "title": "鸡公煲",
+                        "sales": "68",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    },
+                    {
+                        "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2Fee4736dd-d596-434e-96dc-23ffdeebcc3b%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1685100786&t=c0ad6c7d0e3503649de7ef086990697f",
+                        "title": "羊肉粉",
+                        "sales": "2888",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "减配送费",
+                "data": [
+                    {
+                        "pic": "https://www.u88.com/storage/uploads/2020/04/28/02d15736893311ea9d3902420ab40003.png",
+                        "title": "重庆老火锅",
+                        "sales": "388",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "点评高分",
+                "data": [
+                    {
+                        "pic": "https://p0.meituan.net/dpmerchantpic/357931e386eba64eff348752b3d0b84c_1_b8eb8f1aa8e3ef7a_1_76fVbU9XfErOmxeicplweD4daKuqHcSCO2fL58iHLVJbic3kS6RxLTlggMuxuQ33svNx%2BydCDO3ol8Jae%2Bu19aIzbiRgNPo5pI0yEG0AYknctXMUaP6ml6HI2Afqly4KlAEMPYAeicRPsNyFTAIV8g%3D%3D",
+                        "title": "重庆烤全羊",
+                        "sales": "588",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    },
+                    {
+                        "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F201811%2F26%2F20181126152437_smEJJ.thumb.1000_0.jpeg&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1685101311&t=fa8b5487ec2dd9cf9e15b836d4a1a6be",
+                        "title": "重庆串串香",
+                        "sales": "388",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "会员满减",
+                "data": [
+                    {
+                        "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.alicdn.com%2Fbao%2Fuploaded%2Fi1%2F3461710451%2FO1CN01PM7zDs1FCbChEhQ6A_%21%210-item_pic.jpg&refer=http%3A%2F%2Fimg.alicdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1685101386&t=74359f6545080486586f64a9175a6626",
+                        "title": "重庆冒菜",
+                        "sales": "48",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    },
+                    {
+                        "pic": "https://img1.baidu.com/it/u=1569236270,2629105335&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+                        "title": "小龙虾",
+                        "sales": "188",
+                        "price": "20",
+                        "label": [
+                            "门店上新",
+                            "很下饭"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
